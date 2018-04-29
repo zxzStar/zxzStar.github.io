@@ -1589,7 +1589,7 @@
 	}
 
 	body, input, select, textarea {
-		font-family: "Lato", sans-serif;
+		font-family: "Roboto", Arial, sans-serif;
 		font-size: 15pt;
 		font-weight: 300;
 		line-height: 2;
@@ -3128,7 +3128,8 @@
 			}
 
 		#header .logo {
-			font-family: 'KaiTi', cursive;
+			/*font-family: 'Times New Roman';*/
+			font-family: "Roboto", 'Times New Roman', Arial, sans-serif;
 			display: inline-block;
 			height: inherit;
 			left: 0;
