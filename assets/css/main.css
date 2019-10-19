@@ -1663,7 +1663,7 @@
 	h1, h2, h3, h4, h5, h6 {
 		font-weight: 700;
 		line-height: 1.5;
-		margin: 0 0 1em 0;
+		margin: 0 0 0.5em 0;
 		text-transform: uppercase;
 	}
 
@@ -1758,7 +1758,7 @@
 	hr {
 		border: 0;
 		border-bottom: solid 1px;
-		margin: 2em 0;
+		margin: 0.5em 0;
 	}
 
 		hr.major {
@@ -1786,11 +1786,11 @@
 	}
 
 	strong, b {
-		color: #0099ff;
+		color: #171e4b;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #0099ff;
+		color: #171e4b;
 	}
 
 	blockquote {
@@ -1803,7 +1803,7 @@
 	}
 
 	hr {
-		border-bottom-color: #0099ff;
+		border-bottom-color: #171e4b;
 	}
 
 /* Box */
@@ -2629,7 +2629,7 @@
 			}
 
 	table tbody tr {
-		border-color: #0099ff;
+		border-color: #171e4b;
 	}
 
 		table tbody tr:nth-child(2n + 1) {
@@ -2637,19 +2637,19 @@
 		}
 
 	table th {
-		color: #0099ff;
+		color: #171e4b;
 	}
 
 	table thead {
-		border-bottom-color: #0099ff;
+		border-bottom-color: #171e4b;
 	}
 
 	table tfoot {
-		border-top-color: #0099ff;
+		border-top-color: #171e4b;
 	}
 
 	table.alt tbody tr td {
-		border-color: #0099ff;
+		border-color: #171e4b;
 	}
 
 /* Wrapper */
@@ -3099,7 +3099,7 @@
 	}
 
 	#header {
-		background: #0099ff;
+		background: #171e4b;
 		color: #d5d5d5;
 		cursor: default;
 		height: 5em;
@@ -3608,7 +3608,7 @@
 /* Main */
 
 	#main {
-		padding: 4em 0 2em 0;
+		padding: 2em 0 0em 0;
 	}
 
 	#one {
@@ -3775,10 +3775,10 @@
 /* Footer */
 
 	#footer {
-		background-color: #0099ff;
+		background-color: #171e4b;
 		color: white;
 		padding: 4em 0 2em 0;
-		background: #0099ff;
+		background: #171e4b;
 	}
 
 		#footer input, #footer select, #footer textarea {
